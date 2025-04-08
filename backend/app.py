@@ -65,6 +65,12 @@ def build_or_load_faiss():
 
 index, metadata = build_or_load_faiss()
 
+
+@app.route("/")
+def home():
+    return "Backend is running!"
+
+
 @app.route("/recommend", methods=["POST"])
 def recommend():
     data = request.get_json()
