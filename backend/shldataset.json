@@ -1,0 +1,902 @@
+[
+    {
+        "title": "ExpressJS (New)",
+        "description": "Multi-choice test that measures the knowledge of routing, error handling,",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "7 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/expressjs-new/"
+    },
+    {
+        "title": "Financial Accounting (New)",
+        "description": "Multi-choice test that measures the ability to post journal entries, classify",
+        "job_level": "Entry-Level, Graduate, Manager, Mid-Professional, Professional Individual",
+        "language": "English (USA),",
+        "duration": "9 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/financial-accounting-new/"
+    },
+    {
+        "title": "Fire Engineering (New)",
+        "description": "Multi-choice test that measures the knowledge of fire engineering principles,",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "10 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/fire-engineering-new/"
+    },
+    {
+        "title": "Food Science (New)",
+        "description": "Multi-choice test that measures the knowledge of food chemistry, nutrition, food",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "6 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/food-science-new/"
+    },
+    {
+        "title": "Fundamentals of Physics (New)",
+        "description": "Multi-choice test that measures the knowledge of classical mechanics, Newton's",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "8 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-physics-new/"
+    },
+    {
+        "title": "HTML/CSS (New)",
+        "description": "Multi-choice test that measures the knowledge of HTML to create a user interface",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "12 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/html/css-new/"
+    },
+    {
+        "title": "HTML5 (New)",
+        "description": "Multi-choice test that measures the knowledge of HTML5 and its application in",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "11 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/html5-new/"
+    },
+    {
+        "title": "IBM DataStage (New)",
+        "description": "Multi-choice test that measures the knowledge on the concepts of Data Warehouse",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "15 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/ibm-datastage-new/"
+    },
+    {
+        "title": "Informatica (Architecture) (New)",
+        "description": "Multi-choice test that measures the knowledge of data warehousing, server",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "10 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/informatica-architecture-new/"
+    },
+    {
+        "title": "iOS Development (New)",
+        "description": "The Java 2 Platform Enterprise Edition (J2EE) 1.4 Fundamentals test measures",
+        "job_level": "Entry-Level, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "30 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/ios-development-new/"
+    },
+    {
+        "title": "Java Frameworks (New)",
+        "description": "Multi-choice test that measures the knowledge of different Java frameworks -",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "17 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/java-frameworks-new/"
+    },
+    {
+        "title": "Java Web Services (New)",
+        "description": "Multi-choice test that measures the knowledge of basic Java constructs, OOP",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "8 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/java-web-services-new/"
+    },
+    {
+        "title": "JavaScript (New)",
+        "description": "Multi-choice test that measures knowledge of programming in the JavaScript",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "9 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/"
+    },
+    {
+        "title": "jQuery (New)",
+        "description": "Multi-choice test that measures the knowledge of jQuery events and effects,",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "10 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/jquery-new/"
+    },
+    {
+        "title": "Kubernetes (New)",
+        "description": "Multi-choice test that measures the knowledge of the architecture, cluster and",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "6 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/kubernetes-new/"
+    },
+    {
+        "title": "Microservices (New)",
+        "description": "The Microsoft SQL Server 2014 Programming test measures knowledge of Microsoft",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "35 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/microservices-new/"
+    },
+    {
+        "title": "MongoDB (New)",
+        "description": "Multi-choice test that measures the conceptual knowledge of MongoDB like",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "7 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/mongodb-new/"
+    },
+    {
+        "title": "MS Excel (New)",
+        "description": "Multi-choice test that measures the ability to use MS Excel to maintain,",
+        "job_level": "Entry-Level, Graduate, Manager, Mid-Professional, Professional Individual",
+        "language": "English (USA), Spanish, French, Portuguese (Brazil),",
+        "duration": "6 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/ms-excel-new/"
+    },
+    {
+        "title": "Node.js (New)",
+        "description": "This OPQ (Occupational Personality Questionnaire) report is designed to help",
+        "job_level": "Executive, Front Line Manager, General Population, Graduate, Manager, Mid-",
+        "language": "Danish, Dutch, Portuguese, Swedish, English International,",
+        "duration": "9 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/node.js-new/"
+    },
+    {
+        "title": "Python (New)",
+        "description": "Multi-choice test that measures the knowledge of Python programming, databases,",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "11 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/python-new/"
+    },
+    {
+        "title": "ReactJS (New)",
+        "description": "Multi-choice test that measures the technical knowledge of React APIs, render",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "10 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/reactjs-new/"
+    },
+    {
+        "title": "Ruby (New)",
+        "description": "Multi-choice test that measures the knowledge of Ruby strings, collection",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "11 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/ruby-new/"
+    },
+    {
+        "title": "Shell Scripting (New)",
+        "description": "Evaluates ability to identify specific patterns in data or situations and",
+        "job_level": "Professional Individual Contributor, Graduate, Manager, Mid-Professional,",
+        "language": "Korean, Japanese, Thai, Portuguese (Brazil), Portuguese, Chinese Traditional,",
+        "duration": "20 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/shell-scripting-new/"
+    },
+    {
+        "title": "SQL Server (New)",
+        "description": "Multi-choice test that measures the knowledge of basic SQL queries, creating and",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "11 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/"
+    },
+    {
+        "title": "Tableau (New)",
+        "description": "Multi-choice test that measures the knowledge of how to use Tableau to prepare",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "8 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/tableau-new/"
+    },
+    {
+        "title": "UNIX (New)",
+        "description": "Our Industrial â",
+        "job_level": "Entry-Level,",
+        "language": "Latin American Spanish, English (USA), English International, French (Canada),",
+        "duration": "49 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/unix-new/"
+    },
+    {
+        "title": "Enterprise Java Beans (New)",
+        "description": "The Precise Fit Entry Level Technical Support Solution is for entry-level",
+        "job_level": "Entry-Level,",
+        "language": "Latin American Spanish, German, Chinese Simplified, Finnish, Danish, English",
+        "duration": "18 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-java-beans-new/"
+    },
+    {
+        "title": "ETL Testing (New)",
+        "description": "The.NET Framework 4.5 test measures knowledge of .NET environment. Designed for",
+        "job_level": "Professional Individual Contributor, Mid-Professional,",
+        "language": "English (USA),",
+        "duration": "30 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/etl-testing-new/"
+    },
+    {
+        "title": ".NET MVC (New)",
+        "description": "Multi-choice test that measures the knowledge of Model-View-Controller (MVC)",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "17 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/.net-mvc-new/"
+    },
+    {
+        "title": ".NET MVVM (New)",
+        "description": "Multi-choice test that measures the knowledge of MVVM pattern, scenarios, data",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "5 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/.net-mvvm-new/"
+    },
+    {
+        "title": ".NET WCF (New)",
+        "description": "Multi-choice test that measures the knowledge of .NET fundamentals, WCF",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "11 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/.net-wcf-new/"
+    },
+    {
+        "title": ".NET WPF (New)",
+        "description": "Multi-choice test that measures the knowledge of .NET basics, WPF, XAML",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "9 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/.net-wpf-new/"
+    },
+    {
+        "title": ".NET XAML (New)",
+        "description": "Multi-choice test that measures the knowledge of XAML triggers, data binding,",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "5 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/.net-xaml-new/"
+    },
+    {
+        "title": "Accounts Payable (New)",
+        "description": "Multiple-choice test that measures the knowledge of processing payables and",
+        "job_level": "Entry-Level, Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "9 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/"
+    },
+    {
+        "title": "Accounts Payable Simulation (New)",
+        "description": "Simulated data entry test that measures the ability to process payables and",
+        "job_level": "Entry-Level, Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "8 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/"
+    },
+    {
+        "title": "Accounts Receivable (New)",
+        "description": "Multiple-choice test that measures the knowledge of processing receivables and",
+        "job_level": "Entry-Level, Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "13 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/"
+    },
+    {
+        "title": "Accounts Receivable Simulation (New)",
+        "description": "Simulated data entry test that measures the ability to process receivables and",
+        "job_level": "Entry-Level, Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "8 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/"
+    },
+    {
+        "title": "ADO.NET (New)",
+        "description": "Multi-choice test that measures the knowledge on the concepts of ADO.NET",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "10 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/ado.net-new/"
+    },
+    {
+        "title": "Adobe Experience Manager (New)",
+        "description": "The Adobe Photoshop CC test measures knowledge of Adobe Photoshop CC. Designed",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "20 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/adobe-experience-manager-new/"
+    },
+    {
+        "title": "Aeronautical Engineering (New)",
+        "description": "Multi-choice test that measures the knowledge of flight mechanics, space",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "10 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/aeronautical-engineering-new/"
+    },
+    {
+        "title": "Aerospace Engineering (New)",
+        "description": "Multi-choice test that measures the knowledge of agile methodology, scrum,",
+        "job_level": "Graduate,",
+        "language": "English (USA),",
+        "duration": "7 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/aerospace-engineering-new/"
+    },
+    {
+        "title": "Agile Testing (New)",
+        "description": "The AI Skills assessment measures the skills that help candidates successfully",
+        "job_level": "General Population,",
+        "language": "English (USA),",
+        "duration": "16 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/"
+    },
+    {
+        "title": "Android Development (New)",
+        "description": "Multi-choice test that measures the knowledge of UI components for an Android",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "7 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/android-development-new/"
+    },
+    {
+        "title": "Angular 6 (New)",
+        "description": "Multi-choice test that measures the knowledge of the basic components and",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "11 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/"
+    },
+    {
+        "title": "AngularJS (New)",
+        "description": "Multi-choice test that measures the knowledge of AngularJS architecture, forms,",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "9 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/angularjs-new/"
+    },
+    {
+        "title": "Apache Hadoop (New)",
+        "description": "Multi-choice test that measures the knowledge of basic concepts of Hadoop,",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "7 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/"
+    },
+    {
+        "title": "Apache Hadoop Extensions (New)",
+        "description": "Multi-choice test that measures the conceptual knowledge of Pig, Hive and HBase.",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "9 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-extensions-new/"
+    },
+    {
+        "title": "Apache HBase (New)",
+        "description": "Multi-choice test that measures the knowledge of HBase concepts such as CAP",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "5 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/apache-hbase-new/"
+    },
+    {
+        "title": "Apache Hive (New)",
+        "description": "Multi-choice test that measures the knowledge of Hive architecture, datatypes,",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "5 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/apache-hive-new/"
+    },
+    {
+        "title": "Apache Kafka (New)",
+        "description": "Multi-choice test that measures the knowledge of Apache Kafka architecture,",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "6 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/apache-kafka-new/"
+    },
+    {
+        "title": "Apache Pig (New)",
+        "description": "Multi-choice test that measures the knowledge of Pig architecture, built-in",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "6 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/apache-pig-new/"
+    },
+    {
+        "title": "Apache Spark (New)",
+        "description": "Multi-choice test that measures the knowledge of Apache Spark principles, RDD",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "8 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/apache-spark-new/"
+    },
+    {
+        "title": "ASP .NET with C# (New)",
+        "description": "SHL offers a comprehensive range of Assessment and Development Centre exercise",
+        "job_level": "Director, Entry-Level, Executive, Front Line Manager, General Population,",
+        "language": "English International, English (USA),",
+        "duration": "30 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/asp-.net-with-c#-new/"
+    },
+    {
+        "title": "Automata - Fix (New)",
+        "description": "A simulated compiler integrated test to measure debugging skills in C, C++ and",
+        "job_level": "Mid-Professional,",
+        "language": "English (USA),",
+        "duration": "20 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/automata---fix-new/"
+    },
+    {
+        "title": "Automata - SQL (New)",
+        "description": "A simulated query writing test that measures the ability to write SQL queries to",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "30 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/automata---sql-new/"
+    },
+    {
+        "title": "Automata (New)",
+        "description": "An AI-powered coding simulation assessment that evaluates candidateâ",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "45 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/automata-new/"
+    },
+    {
+        "title": "Automata Data Science (New)",
+        "description": "A simulated test that measures the ability to analyze and modify data using",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "60 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-new/"
+    },
+    {
+        "title": "Automata Data Science Pro (New)",
+        "description": "Simulation based test that measures the front-end development capabilities using",
+        "job_level": "Entry-Level, Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "30 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-pro-new/"
+    },
+    {
+        "title": "Automata Pro (New)",
+        "description": "A coding simulation assessment that evaluates the ability to conduct tasks",
+        "job_level": "Entry-Level, Graduate, Manager, Mid-Professional, Professional Individual",
+        "language": "English (USA),",
+        "duration": "60 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/automata-pro-new/"
+    },
+    {
+        "title": "Automation Anywhere RPA Development (New)",
+        "description": "Multi-choice test that measures the knowledge of Automation Anywhere dash board",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "8 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/automation-anywhere-rpa-development-new/"
+    },
+    {
+        "title": "Automotive Engineering (New)",
+        "description": "Multi-choice test that measures the knowledge of auto engine classification,",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "13 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/automotive-engineering-new/"
+    },
+    {
+        "title": "Basic Biology (New)",
+        "description": "Multi choice test that measures the candidate's basic understanding of Biology.",
+        "job_level": "Professional Individual Contributor, Graduate, Mid-Professional,",
+        "language": "English (USA),",
+        "duration": "6 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/basic-biology-new/"
+    },
+    {
+        "title": "Basic Computer Literacy (Windows 10) (New)",
+        "description": "The Basic Computer Literacy (Windows 10) simulation measures knowledge of",
+        "job_level": "Entry-Level,",
+        "language": "English (USA),",
+        "duration": "30 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new/"
+    },
+    {
+        "title": "Basic Statistics (New)",
+        "description": "Multi-choice test that measures the knowledge of statistical methods,",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "10 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/basic-statistics-new/"
+    },
+    {
+        "title": "Biochemistry (New)",
+        "description": "Multi-choice test that measures the knowledge of various bio-molecules like",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "8 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/biochemistry-new/"
+    },
+    {
+        "title": "Biotech Lab Techniques (New)",
+        "description": "Multi-choice test that measures the knowledge of biophysical techniques, bio-",
+        "job_level": "Graduate, Professional Individual Contributor, Mid-Professional,",
+        "language": "English (USA),",
+        "duration": "5 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/biotech-lab-techniques-new/"
+    },
+    {
+        "title": "BizTalk (New)",
+        "description": "This test measures the candidate's knowledge of communicating in the workplace.",
+        "job_level": "Entry-Level, Front Line Manager, Manager, Mid-Professional, Professional",
+        "language": "English (USA),",
+        "duration": "35 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/biztalk-new/"
+    },
+    {
+        "title": "C Programming (New)",
+        "description": "Multi-choice test that measures the knowledge of C programming basics,",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "10 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new/"
+    },
+    {
+        "title": "C++ Programming (New)",
+        "description": "Multi-choice test that measures the knowledge of programming in the C++ language",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "10 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/c++-programming-new/"
+    },
+    {
+        "title": "C# Programming (New)",
+        "description": "Multi-choice test that measures the knowledge of C# programming structure,",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "9 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/c#-programming-new/"
+    },
+    {
+        "title": "Cardiology and Diabetes Management (New)",
+        "description": "Multi-choice test that measures the knowledge of how to control and manage",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "4 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/cardiology-and-diabetes-management-new/"
+    },
+    {
+        "title": "Ceramic Engineering (New)",
+        "description": "Multi-choice test that measures the knowledge of classification of ceramic",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "12 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/ceramic-engineering-new/"
+    },
+    {
+        "title": "Chemical Engineering (New)",
+        "description": "Multi-choice test that measures the conceptual knowledge of transport phenomena,",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "13 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/chemical-engineering-new/"
+    },
+    {
+        "title": "Cisco AppDynamics (New)",
+        "description": "Multi-choice test that measures the knowledge of application analytics,",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "9 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/cisco-appdynamics-new/"
+    },
+    {
+        "title": "Civil Engineering (New)",
+        "description": "Multi-choice test that measures the knowledge of structural engineering,",
+        "job_level": "Graduate, Manager, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "10 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/civil-engineering-new/"
+    },
+    {
+        "title": "Cloud Computing (New)",
+        "description": "Multi-choice test that measures the knowledge of cloud computing concepts, cloud",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "8 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-new/"
+    },
+    {
+        "title": "COBOL Programming (New)",
+        "description": "Multi-choice test that measures the knowledge of COBOL programming fundamentals,",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "10 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/cobol-programming-new/"
+    },
+    {
+        "title": "Computer Science (New)",
+        "description": "Multi-choice test that measures the knowledge of operating system, computer",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "12 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/"
+    },
+    {
+        "title": "Contact Center Call Simulation (New)",
+        "description": "This is a simulation-based test that measures the ability to handle customer",
+        "job_level": "Entry-Level,",
+        "language": "English (USA),",
+        "duration": "11 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-call-simulation-new/"
+    },
+    {
+        "title": "Core Java (Advanced Level) (New)",
+        "description": "Multi-choice test that measures the knowledge of basic Java constructs, OOP",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "13 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/"
+    },
+    {
+        "title": "Core Java (Entry Level) (New)",
+        "description": "The Count out the Money â",
+        "job_level": "Entry-Level,",
+        "language": "English (USA), English (Australia), English (Canada), English International,",
+        "duration": "5 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/"
+    },
+    {
+        "title": "CSS3 (New)",
+        "description": "Multi-choice test that measures the knowledge of CSS3 and its application in",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "8 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/"
+    },
+    {
+        "title": "Culinary Skills (New)",
+        "description": "As part of Contact Center Simulations, the Customer Service Phone Solution",
+        "job_level": "Entry-Level,",
+        "language": "French (Canada), Italian, French, Dutch, Spanish, Portuguese (Brazil), Chinese",
+        "duration": "30 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/culinary-skills-new/"
+    },
+    {
+        "title": "Cyber Risk (New)",
+        "description": "Multi-choice test that measures the knowledge of cyber risk management, system",
+        "job_level": "Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+        "language": "English (USA),",
+        "duration": "9 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/cyber-risk-new/"
+    },
+    {
+        "title": "Data Entry (New)",
+        "description": "Data Entry Ten Key Split Screen assessment measures ability to enter numbers",
+        "job_level": "Entry-Level, Front Line Manager, Mid-Professional, Professional Individual",
+        "language": "English (USA),",
+        "duration": "3 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-new/"
+    },
+    {
+        "title": "Data Science (New)",
+        "description": "The DSI is a short pre-screening tool for many key entry-level roles. It is",
+        "job_level": "Entry-Level,",
+        "language": "Portuguese (Brazil), Chinese Traditional, Danish, Dutch, Finnish, French,",
+        "duration": "10 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/data-science-new/"
+    },
+    {
+        "title": "Dermatology (New)",
+        "description": "Multi-choice test that measures the knowledge of various diseases related to",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "3 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/dermatology-new/"
+    },
+    {
+        "title": "Desktop Support (New)",
+        "description": "Multi-choice test that measures the knowledge of networking, peripheral",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "8 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/desktop-support-new/"
+    },
+    {
+        "title": "Digital Advertising (New)",
+        "description": "This participant-oriented report is aimed employees with management",
+        "job_level": "Entry-Level, Executive, Front Line Manager, General Population, Graduate,",
+        "language": "English (USA),",
+        "duration": "7 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/digital-advertising-new/"
+    },
+    {
+        "title": "Docker (New)",
+        "description": "Multi-choice test that measures the knowledge of Docker container, data",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "10 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/docker-new/"
+    },
+    {
+        "title": "Dojo (New)",
+        "description": "Multi-choice test that measures the knowledge of Dojo architecture, classes and",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "11 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/dojo-new/"
+    },
+    {
+        "title": "Drupal (New)",
+        "description": "DSI v1.1 Interpretation Report",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "language": "Portuguese (Brazil), Dutch, Finnish, French, Latin American Spanish, Norwegian,",
+        "duration": "17 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/"
+    },
+    {
+        "title": "Econometrics (New)",
+        "description": "Multi-choice test that measures the knowledge of statistical concepts,",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "11 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/econometrics-new/"
+    },
+    {
+        "title": "Economics (New)",
+        "description": "Multi-choice test that measures the conceptual knowledge of microeconomics,",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "13 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/economics-new/"
+    },
+    {
+        "title": "Electrical and Electronics Engineering (New)",
+        "description": "Multi-choice test that measures the candidateâ",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "14 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/electrical-and-electronics-engineering-new/"
+    },
+    {
+        "title": "Electrical Engineering (New)",
+        "description": "Multi-choice test that measures the knowledge of basic electrical engineering,",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "8 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/electrical-engineering-new/"
+    },
+    {
+        "title": "Electronics & Telecommunications Engineering (New)",
+        "description": "Multi-choice test that measures the candidateâ",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "15 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-telecommunications-engineering-new/"
+    },
+    {
+        "title": "Electronics and Embedded Systems Engineering (New)",
+        "description": "Multi-choice test that measures the candidateâ",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "18 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/"
+    },
+    {
+        "title": "Electronics and Semiconductor Engineering (New)",
+        "description": "Multi-choice test that measures the knowledge of semiconductors, two terminal",
+        "job_level": "Graduate, Mid-Professional, Professional Individual Contributor,",
+        "language": "English (USA),",
+        "duration": "7 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-semiconductor-engineering-new/"
+    },
+    {
+        "title": "English Comprehension (New)",
+        "description": "Multiple-choice test that measures vocabulary, grammar and reading comprehension",
+        "job_level": "Entry-Level,",
+        "language": "English (USA),",
+        "duration": "0 minutes",
+        "remote_testing": "yes",
+        "link": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/"
+    }
+]
